@@ -1,12 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.2656542f.css",
-    "main.js": "/static/js/main.ec363599.js",
+    "main.css": "/static/css/main.361e6872.css",
+    "main.js": "/static/js/main.42a89a4d.js",
+    "static/media/Ajio.png": "/static/media/Ajio.41b2db6bcf44234f3bac.png",
     "static/media/fhome.png": "/static/media/fhome.a7e2b127d0cbb0705926.png",
     "static/media/home1.png": "/static/media/home1.e1596712af27795f48a9.png",
     "static/media/youtubereact.png": "/static/media/youtubereact.b64724021ea02f5ef274.png",
+    "static/media/myglamm.png": "/static/media/myglamm.3ef7e678985de55694f3.png",
     "static/media/Prakash_Singh.pdf": "/static/media/Prakash_Singh.f08314a6e485f30ef381.pdf",
     "static/media/creativity1.png": "/static/media/creativity1.445675a0a00c2757a1d6.png",
+    "static/media/Bechocom.png": "/static/media/Bechocom.e3fb6dd59379c90b4c1e.png",
     "static/media/redux.png": "/static/media/redux.1b4bb5fceb01b19da59d.png",
     "static/media/timeManage.png": "/static/media/timeManage.4644a4b2b8ed5f538eec.png",
     "static/media/dsa.png": "/static/media/dsa.77509298a343d123a7bd.png",
@@ -26,11 +29,11 @@
     "static/media/react.svg": "/static/media/react.4e0c97009b885bfa75c5412262a46f5f.svg",
     "static/media/netlify.svg": "/static/media/netlify.74896431af95f4ab7d84bc511bbe7126.svg",
     "index.html": "/index.html",
-    "main.2656542f.css.map": "/static/css/main.2656542f.css.map",
-    "main.ec363599.js.map": "/static/js/main.ec363599.js.map"
+    "main.361e6872.css.map": "/static/css/main.361e6872.css.map",
+    "main.42a89a4d.js.map": "/static/js/main.42a89a4d.js.map"
   },
   "entrypoints": [
-    "static/css/main.2656542f.css",
-    "static/js/main.ec363599.js"
+    "static/css/main.361e6872.css",
+    "static/js/main.42a89a4d.js"
   ]
 }
